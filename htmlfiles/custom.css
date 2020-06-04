@@ -1,0 +1,123 @@
+html,body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+.logo{
+    margin-left: 30%;
+    height: 250px;
+}
+
+
+.nav-item{
+    display: block;
+    height: 50%; 
+    
+}
+.nav-item:hover{
+    display: block;
+    
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+.nav-link:hover{
+    color: rgb(212, 223, 60);
+}
+
+.navbar{
+    max-height: 780%;
+    
+}
+p{
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+ul li a:hover{
+    color: black;
+}
+.headicons{
+    height: 20px;
+    width: 18px;
+}
+.form-control{
+    width: 50%;
+}
+h1 p u{
+    text-align: center;
+    color: rgb(212, 223, 60);
+    font-size: 170%;
+}
+#navbtn:hover{
+    color: rgb(212, 223, 60);
+    
+}
+h1 p {
+    text-align: center;
+    color: rgb(212, 223, 60);
+    
+}
+h6 p{
+    text-align: center;
+    color: rgb(212, 223, 60);
+}
+
+p b u{
+    text-align: center;
+    color: rgb(212, 223, 60);
+}
+#blanktext{
+    color: rgb(48, 45, 45);
+}
+body{
+    background-color: rgb(48, 45, 45);
+    color: whitesmoke;
+}
+p u b{
+    text-align: center;
+    color: rgb(212, 223, 60);
+}
+.btn{
+    background-color: rgb(212, 223, 60);
+    color: whitesmoke;
+}
+#hos{
+    width: 70%;
+}
+label{
+    color: rgb(212, 223, 60);
+}
+.modal{
+   
+    color: black;
+}
+.modal-content{
+    background-color: #343a40;
+}
+.modal-header{
+    color: rgb(212, 223, 60);
+}
+#seltype3{
+    width: 30%;
+}
+.card{
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-color: #343a40;
+    border-style: double;
+   
+}
+.card-body{
+    background-color: #343a40;
+    color: whitesmoke;
+}
+.card-title{
+    color: rgb(212, 223, 60);
+}
+
+
